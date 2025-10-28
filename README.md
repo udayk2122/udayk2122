@@ -3,7 +3,6 @@
 <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=700&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Profile!+👋;I'm+AVULA+UDAY+KIRAN;A+Passionate+Frontend+Developer;...and+a+Python+Enthusiast" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=700&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Welcome+to+my+Profile!+👋;I'm+AVULA+UDAY+KIRAN;A+Passionate+Frontend+Developer;...and+a+Python+Enthusiast" alt="Typing SVG" />
 </a>
-
 <br>
 
 <p align="center">
