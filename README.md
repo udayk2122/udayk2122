@@ -1,23 +1,8 @@
-<h<table>
+<table>
   <tr>
     <td width="65%">
       <h1 align="left">Hi 👋, I'm AVULA UDAY KIRAN</h1>
       <h3 align="left">A passionate Frontend Developer from India 🇮🇳</h3>
-      
-      <p align="left">
-        <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;Python+Enthusiast;SQL+Specialist;Currently+learning+React+%26+Django" target="_blank">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Passionate+Frontend+Developer;Python+Enthusiast;SQL+Specialist;Currently+learning+React+%26+Django" alt="Typing SVG" />
-        </a>
-      </p>
-      
-      <p align="left">
-        <img src="https://komarev.com/ghpvc/?username=udayk2122&label=Profile%20Views&color=0e75b6&style=flat-square" alt="udayk2122" />
-      </p>
-    </td>
-    <td width="35%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1YmN1ZGRqbjhnZmd2cDl4ZTI2M2g0bDgwbnExZ3p1OWhpYjZ6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIUGyKAg/giphy.gif" alt="Developer GIF" width="100%"/>
-    </td>
-  </tr>
 </table>
 
 ---
